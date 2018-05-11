@@ -4,21 +4,6 @@ import java.io.IOException;
 /**
  * 
  * @author devyash
- * @function to return http://fakerestapi.azurewebsites.net/api/Books
- * Given Json file
-Return max length word count
-Word with max vowels..if the count is same return the first one
-Word with max length
-Programming Exercise: (data fetched using REST API.
- I was spared of this requirement since I was using C++). 
- 1) Extracting most frequently occurring words, vowel, 
- word of most frequently occurring word length.
- 2) Question related to mapping to and from letters. 
-3) I didn't have time to read it. 
-I was told that it was about permutations. 
- OkHttp.
- javax.net.ssl.HttpsURLConnection
- APACHE HTTP CLIENT
   
  */
 
